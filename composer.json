@@ -27,12 +27,12 @@
     },
     "require": {
         "php": "^8.2",
-        "hyperf/command": "~3.2.0",
-        "hyperf/context": "~3.2.0",
+        "hyperf/command": "dev-3.2",
+        "hyperf/context": "dev-3.2",
         "hypervel/foundation": "dev-main",
         "dragonmantank/cron-expression": "^3.3.2",
         "symfony/console": "^5.4|^6.4|^7.0",
-        "friendsofhyperf/command-signals": "~3.1.0"
+        "friendsofhyperf/command-signals": "dev-3.2"
     },
     "suggest": {
         "hypervel/prompt": "Required to run schedule:test command.",
